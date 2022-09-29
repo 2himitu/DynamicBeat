@@ -3,9 +3,6 @@
 <div>
 <img src="https://img.shields.io/badge/-java-green">
 <img src="https://img.shields.io/badge/-Eclipse-green">  
-``
-음악을 플레이하기 위한 라이브러리  
-``
 <img src="https://img.shields.io/badge/-jlayer1.0.1-green">
 
 </div>
